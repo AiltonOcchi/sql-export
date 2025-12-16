@@ -1,4 +1,4 @@
-# SQL Export - Exportador de Consultas SQL para CSV
+# SQL Query Export - Exportador de Consultas SQL para CSV
 
 Aplicação desktop com interface gráfica desenvolvida em Python que permite conectar-se a bancos de dados **PostgreSQL** ou **MySQL**, executar consultas SQL personalizadas e exportar os resultados para arquivos CSV de forma rápida e intuitiva.
 
